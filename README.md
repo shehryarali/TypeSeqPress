@@ -44,7 +44,7 @@ Deployment:
 3. npm install --production
 
 # Use any process manager to start your services
-4. pm2 start bin/index.js
+4. pm2 start dist/index.js
 ```
 
 Project Include FingerPrints, Helmet, JWT Integration with PostGresSQL;
